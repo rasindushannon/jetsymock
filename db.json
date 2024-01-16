@@ -6,8 +6,8 @@
         "title": "Beach Resort",
         "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max"
         ],
         "country": "Paradise",
         "city": "Sunnyville",
@@ -22,10 +22,10 @@
         "id": "2",
         "category": "Mountain",
         "title": "Majestic Mountain",
-        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max"
         ],
         "country": "Serene Peaks",
         "city": "Mountainville",
@@ -40,10 +40,10 @@
         "id": "3",
         "category": "City",
         "title": "Cityscape Hotel",
-        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max"
         ],
         "country": "Urban Metropolis",
         "city": "Cityburg",
@@ -58,10 +58,10 @@
         "id": "10",
         "category": "Historical",
         "title": "Ancient Ruins",
-        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max"
         ],
         "country": "Timeless Kingdom",
         "city": "Historyville",
@@ -78,10 +78,10 @@
         "id": "1",
         "category": "Beach",
         "title": "Beautiful Beach Resort",
-        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max"
         ],
         "country": "Paradise",
         "city": "Sunnyville",
@@ -96,10 +96,10 @@
         "id": "2",
         "category": "Mountain",
         "title": "Majestic Mountain Retreat",
-        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max"
         ],
         "country": "Serene Peaks",
         "city": "Mountainville",
@@ -114,10 +114,10 @@
         "id": "3",
         "category": "City",
         "title": "Cityscape View Hotel",
-        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max"
         ],
         "country": "Urban Metropolis",
         "city": "Cityburg",
