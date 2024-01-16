@@ -1,5 +1,6 @@
 {
-    "Destinations": [
+  "Destinations": {
+    "Data": [
       {
         "id": "1",
         "category": "Beach",
@@ -72,8 +73,10 @@
         "recommended": true,
         "recommended_rate": "98%"
       }
-    ],
-  "Recommendations": [
+    ]
+  },
+  "Recommendations": {
+    "Data": [
       {
         "id": "1",
         "category": "Beach",
@@ -128,9 +131,10 @@
         "recommended": true,
         "recommended_rate": 92
       }
-     
-    ],
-"Reviews": [
+    ]
+  },
+  "Reviews": {
+    "Data": [
       {
         "id": "1",
         "image": "https://images.unsplash.com/photo-1.jpg",
@@ -165,3 +169,4 @@
       }
     ]
   }
+}
