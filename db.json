@@ -1,9 +1,167 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "Destinations": [
+      {
+        "id": "1",
+        "category": "Beach",
+        "title": "Beach Resort",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "more_images": [
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+        ],
+        "country": "Paradise",
+        "city": "Sunnyville",
+        "description": "Experience the beauty of our beach resort with stunning views.",
+        "price": "500",
+        "discount": "10%",
+        "review": "4.5",
+        "recommended": true,
+        "recommended_rate": "90%"
+      },
+      {
+        "id": "2",
+        "category": "Mountain",
+        "title": "Majestic Mountain",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "more_images": [
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+        ],
+        "country": "Serene Peaks",
+        "city": "Mountainville",
+        "description": "Escape to the tranquility of our mountain retreat for a peaceful getaway.",
+        "price": "700",
+        "discount": "15%",
+        "review": "4.8",
+        "recommended": true,
+        "recommended_rate": "95%"
+      },
+      {
+        "id": "3",
+        "category": "City",
+        "title": "Cityscape Hotel",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "more_images": [
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+        ],
+        "country": "Urban Metropolis",
+        "city": "Cityburg",
+        "description": "Enjoy the vibrant city life with a stunning cityscape view from our hotel.",
+        "price": "600",
+        "discount": "12%",
+        "review": "4.7",
+        "recommended": true,
+        "recommended_rate": "92%"
+      },
+      {
+        "id": "10",
+        "category": "Historical",
+        "title": "Ancient Ruins",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "more_images": [
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+        ],
+        "country": "Timeless Kingdom",
+        "city": "Historyville",
+        "description": "Explore the mysteries of ancient civilizations with our ruins tour.",
+        "price": "800",
+        "discount": "20%",
+        "review": "4.9",
+        "recommended": true,
+        "recommended_rate": "98%"
+      }
+    ],
+  "Recommendations": [
+      {
+        "id": "1",
+        "category": "Beach",
+        "title": "Beautiful Beach Resort",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "more_images": [
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+        ],
+        "country": "Paradise",
+        "city": "Sunnyville",
+        "description": "Experience the beauty of our beach resort with stunning views.",
+        "price": "500",
+        "discount": "10%",
+        "review": "4.5",
+        "recommended": true,
+        "recommended_rate": 90
+      },
+      {
+        "id": "2",
+        "category": "Mountain",
+        "title": "Majestic Mountain Retreat",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "more_images": [
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+        ],
+        "country": "Serene Peaks",
+        "city": "Mountainville",
+        "description": "Escape to the tranquility of our mountain retreat for a peaceful getaway.",
+        "price": "700",
+        "discount": "15%",
+        "review": "4.8",
+        "recommended": true,
+        "recommended_rate": 95
+      },
+      {
+        "id": "3",
+        "category": "City",
+        "title": "Cityscape View Hotel",
+        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+        "more_images": [
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max",
+          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=1000&fit=max"
+        ],
+        "country": "Urban Metropolis",
+        "city": "Cityburg",
+        "description": "Enjoy the vibrant city life with a stunning cityscape view from our hotel.",
+        "price": "600",
+        "discount": "12%",
+        "review": "4.7",
+        "recommended": true,
+        "recommended_rate": 92
+      }
+     
+    ],
+"Reviews": [
+      {
+        "id": "1",
+        "image": "https://images.unsplash.com/photo-1.jpg",
+        "city": "Sunnyville",
+        "country": "Paradise",
+        "reviewRate": "4.5",
+        "review": "Beautiful place with stunning views. Highly recommended!"
+      },
+      {
+        "id": "2",
+        "image": "https://images.unsplash.com/photo-2.jpg",
+        "city": "Mountainville",
+        "country": "Serene Peaks",
+        "reviewRate": "4.8",
+        "review": "Tranquil mountain retreat, perfect for a peaceful getaway."
+      },
+      {
+        "id": "3",
+        "image": "https://images.unsplash.com/photo-3.jpg",
+        "city": "Cityburg",
+        "country": "Urban Metropolis",
+        "reviewRate": "4.7",
+        "review": "Enjoyed the vibrant city life with a stunning cityscape view."
+      },
+      {
+        "id": "4",
+        "image": "https://images.unsplash.com/photo-4.jpg",
+        "city": "Historyville",
+        "country": "Timeless Kingdom",
+        "reviewRate": "4.9",
+        "review": "Fascinating exploration of ancient ruins and civilizations."
+      }
+    ]
+  }
