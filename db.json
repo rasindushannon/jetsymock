@@ -10,7 +10,7 @@
           "https://images.unsplash.com/photo-1540541338287-41700207dee6?fm=jpg&w=500&fit=max",
           "https://images.unsplash.com/photo-1512680865582-710e8a690ed6?fm=jpg&w=500&fit=max"
         ],
-        "country": "Paradise",
+        "country": "Bahamas",
         "city": "Sunnyville",
         "description": "Experience the beauty of our beach resort with stunning views.",
         "price": "500",
@@ -23,10 +23,10 @@
         "id": "2",
         "category": "Mountain",
         "title": "Majestic Mountain",
-        "Image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?fm=jpg&w=500&fit=max",
+        "Image": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?fm=jpg&w=500&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1628706713229-49474b9f3969?fm=jpg&w=500&fit=max",
-          "ttps://images.unsplash.com/photo-1675348081090-f2ec9f02eca7?fm=jpg&w=500&fit=max"
+          "https://images.unsplash.com/photo-1605825831039-8b6b4199b04a?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1509600110300-21b9d5fedeb7?fm=jpg&w=500&fit=max"
         ],
         "country": "Serene Peaks",
         "city": "Mountainville",
@@ -99,10 +99,10 @@
         "id": "2",
         "category": "Mountain",
         "title": "Majestic Mountain Retreat",
-        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
+        "Image": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?fm=jpg&w=500&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max"
+          "https://images.unsplash.com/photo-1605825831039-8b6b4199b04a?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1509600110300-21b9d5fedeb7?fm=jpg&w=500&fit=max"
         ],
         "country": "Serene Peaks",
         "city": "Mountainville",
