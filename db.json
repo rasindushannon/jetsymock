@@ -28,7 +28,7 @@
           "https://images.unsplash.com/photo-1605825831039-8b6b4199b04a?fm=jpg&w=500&fit=max",
           "https://images.unsplash.com/photo-1509600110300-21b9d5fedeb7?fm=jpg&w=500&fit=max"
         ],
-        "country": "Serene Peaks",
+        "country": "Iceland",
         "city": "Mountainville",
         "description": "Escape to the tranquility of our mountain retreat for a peaceful getaway.",
         "price": "700",
@@ -43,10 +43,10 @@
         "title": "Cityscape Hotel",
         "Image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?fm=jpg&w=500&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max"
+          "https://images.unsplash.com/photo-1614568112072-770f89361490?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1590447158019-883d8d5f8bc7?fm=jpg&w=500&fit=max"
         ],
-        "country": "Urban Metropolis",
+        "country": "England",
         "city": "Cityburg",
         "description": "Enjoy the vibrant city life with a stunning cityscape view from our hotel.",
         "price": "600",
@@ -117,12 +117,12 @@
         "id": "3",
         "category": "City",
         "title": "Cityscape View Hotel",
-        "Image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
+        "Image": "https://images.unsplash.com/photo-1536625737227-92a1fc042e7e?fm=jpg&w=500&fit=max",
         "more_images": [
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max",
-          "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fm=jpg&w=500&fit=max"
+          "https://images.unsplash.com/photo-1614568112072-770f89361490?fm=jpg&w=500&fit=max",
+          "https://images.unsplash.com/photo-1590447158019-883d8d5f8bc7?fm=jpg&w=500&fit=max"
         ],
-        "country": "Urban Metropolis",
+        "country": "England",
         "city": "Cityburg",
         "description": "Enjoy the vibrant city life with a stunning cityscape view from our hotel.",
         "price": "600",
